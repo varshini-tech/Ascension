@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  scroll-behavior: smooth;
+}
+
+.space{
+  display: flex;
+  padding:0.5px;
+  background-color: beige;
+  align-items: self-end;
+}
+
+.pricing-container {
+  display: grid;
+  gap: 20px; 
+  align-items: flex-start;
+  grid-template-columns: repeat(2, minmax(150px, 1fr)); 
+  justify-content: center; 
+  max-width: 100%; 
+  padding: 20px;
+  background-color: beige;
+}

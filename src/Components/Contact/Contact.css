@@ -1,0 +1,22 @@
+.displayBox{
+    background-color: #804000;
+    color: beige;
+    padding:20px;
+    margin:auto;
+    display:flex;
+    align-items: flex-start;
+    justify-content:flex-start;
+    align-self: flex-start;
+    height:auto;
+    min-height: 35px;
+    max-height: 75px;
+    min-width: 1440px;
+    border-radius: 6px 6px;
+}
+
+.content{
+    color:beige;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    align-items: self-start;
+}

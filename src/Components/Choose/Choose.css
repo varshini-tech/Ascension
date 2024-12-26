@@ -1,0 +1,12 @@
+.choose-content{    
+    display:flex;
+    background-color: beige;
+    color:#804000;
+    align-items: self-start;
+    padding:25px;    
+}
+
+.ul li{
+    content:"✓ ";
+    color:#804000;
+}
