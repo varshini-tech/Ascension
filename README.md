@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ascension
 A simple static webpage using React for Ascension Mehandi Works
 
@@ -78,3 +79,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 73f5598 (Initial commit)
+=======
+# Ascension
+A simple static webpage using React for Ascension Mehandi Works
+>>>>>>> f425973aeeb0b3c0b53bdd8a9dfb2032bc94e561
